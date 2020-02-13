@@ -1,0 +1,15 @@
+{
+  "name": "ember-electron-node-mocks",
+  "version": "0.0.1",
+  "description": "Generate mocks for requireNode and processNode when those aren't available",
+  "repository": "git@github.com:jacobq/ember-electron-node-mocks.git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jacob Quant <jacobq@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mock-fs": "^4.10.4"
+  }
+}
